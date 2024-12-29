@@ -1,2 +1,3 @@
 plik readme
 zmiana
+kolejna
